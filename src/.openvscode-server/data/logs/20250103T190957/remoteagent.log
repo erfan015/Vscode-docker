@@ -1,0 +1,23 @@
+2025-01-03 19:09:57.566 [info] 
+
+
+
+
+2025-01-03 19:09:57.581 [info] Extension host agent started.
+2025-01-03 19:09:57.591 [info] Started initializing default profile extensions in extensions installation folder. file:///home/workspace/.openvscode-server/extensions
+2025-01-03 19:09:57.619 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/workspace/.openvscode-server/extensions
+2025-01-03 19:23:12.776 [info] [172.20.0.1][248f3568][ManagementConnection] New connection established.
+2025-01-03 19:23:12.778 [info] [172.20.0.1][c2f1df28][ExtensionHostConnection] New connection established.
+2025-01-03 19:23:12.916 [info] [172.20.0.1][c2f1df28][ExtensionHostConnection] <30> Launched Extension Host Process.
+2025-01-03 19:25:19.366 [info] [172.20.0.1][248f3568][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-01-03 19:25:19.395 [info] [172.20.0.1][c2f1df28][ExtensionHostConnection] <30> Extension Host Process exited with code: 0, signal: null.
+2025-01-03 19:25:19.978 [info] [172.20.0.1][f81c2645][ManagementConnection] New connection established.
+2025-01-03 19:25:19.993 [info] [172.20.0.1][718b2bfe][ExtensionHostConnection] New connection established.
+2025-01-03 19:25:19.997 [info] [172.20.0.1][718b2bfe][ExtensionHostConnection] <49> Launched Extension Host Process.
+2025-01-03 19:25:40.248 [info] [172.20.0.1][f81c2645][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-01-03 19:25:40.293 [info] [172.20.0.1][718b2bfe][ExtensionHostConnection] <49> Extension Host Process exited with code: 0, signal: null.
+2025-01-03 19:25:44.114 [info] [172.20.0.1][03e7eff4][ManagementConnection] New connection established.
+2025-01-03 19:25:44.132 [info] [172.20.0.1][86296167][ExtensionHostConnection] New connection established.
+2025-01-03 19:25:44.136 [info] [172.20.0.1][86296167][ExtensionHostConnection] <114> Launched Extension Host Process.
+2025-01-03 19:25:48.586 [info] [172.20.0.1][03e7eff4][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-01-03 19:25:48.613 [info] [172.20.0.1][86296167][ExtensionHostConnection] <114> Extension Host Process exited with code: 0, signal: null.

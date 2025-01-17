@@ -1,0 +1,16 @@
+2025-01-03 19:25:20.653 [info] Extension host with pid 49 started
+2025-01-03 19:25:20.675 [info] Lock '/home/workspace/.openvscode-server/data/User/workspaceStorage/-3060cb40/vscode.lock': Lock acquired.
+2025-01-03 19:25:20.741 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-01-03 19:25:20.748 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2025-01-03 19:25:20.792 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-01-03 19:25:20.835 [info] Eager extensions activated
+2025-01-03 19:25:20.835 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-01-03 19:25:20.836 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-01-03 19:25:22.916 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2025-01-03 19:25:26.359 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-01-03 19:25:26.359 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-01-03 19:25:26.360 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2025-01-03 19:25:26.360 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-01-03 19:25:40.252 [info] Extension host terminating: received terminate message from renderer
+2025-01-03 19:25:40.253 [info] Lock '/home/workspace/.openvscode-server/data/User/workspaceStorage/-3060cb40/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2025-01-03 19:25:40.269 [info] Extension host with pid 49 exiting with code 0
